@@ -43,7 +43,7 @@ function Slide16() {
     <Slide
       eyebrow="Акт III — Как работи"
       kicker="Източници на данни"
-      title="Всеки сигнал, на едно място."
+      title="Всички сигнали, на едно място."
       size="md"
     >
       <IconGrid items={items} columns={5} className="max-w-4xl" />
