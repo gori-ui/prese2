@@ -91,7 +91,7 @@ export default function Hero({ eyebrow, title, subtitle, children, backgroundIma
             )}
             <div className="mt-8 flex items-center justify-center gap-4">
               <div className="h-px w-16 bg-white/25" />
-              <divclassName="font-mono-tech text-[22px] uppercase tracking-[0.35em] text-white/50"
+              <divclassName="font-mono-tech text-[22px] uppercase tracking-[0.35em] text-white/50">
             Geo operational risk intelligence 
               </div>
               <div className="h-px w-16 bg-white/25" />
