@@ -26,23 +26,6 @@ import RiskMap from "../components/RiskMap";
 import Timeline from "../components/Timeline";
 import type { SlideDef } from "../lib/types";
 
-// SLIDE 16 — Data sources
-function Slide16Intro() {
-  return (
-    <Slide
-      eyebrow="Акт III — Как работи"
-      kicker="Въведение"
-      title="Какво ще разгледаме"
-      size="md"
-      align="center"
-      contentClassName="items-center text-center"
-    >
-      <p className="max-w-3xl text-white/80">
-        Този акт показва архитектурата на GORI — от данните до решенията, през синтеза и прогнозата.
-      </p>
-    </Slide>
-  );
-}
 
 function Slide16() {
   const items = [
