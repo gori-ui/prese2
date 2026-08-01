@@ -75,8 +75,8 @@ export default function Hero({ eyebrow, title, subtitle, children, backgroundIma
             </div>
           )}
 
-          <div className="font-mono-tech text-[22px] uppercase tracking-[0.35em] text-white/50">
-              Запознайте се с бъдещето на справянето с пожари
+          <div className="font-mono-tech text-[19px] uppercase tracking-[0.35em] text-white/50">
+              Запознайте се с бъдещето в което се справяме с пожари
           </div>
 
           <div className="w-full rounded-[32px] border border-white/10 bg-black/35 p-6 shadow-[0_0_80px_rgba(0,0,0,0.45)] backdrop-blur-sm">
