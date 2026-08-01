@@ -76,7 +76,7 @@ export default function Hero({ eyebrow, title, subtitle, children, backgroundIma
           )}
 
           <div className="font-mono-tech text-[22px] uppercase tracking-[0.35em] text-white/50">
-              GEO OPERATIONAL RISK INTELLIGENCE
+              G.O.R.I 
           </div>
 
           <div className="w-full rounded-[32px] border border-white/10 bg-black/35 p-6 shadow-[0_0_80px_rgba(0,0,0,0.45)] backdrop-blur-sm">
@@ -92,7 +92,7 @@ export default function Hero({ eyebrow, title, subtitle, children, backgroundIma
             <div className="mt-8 flex items-center justify-center gap-4">
               <div className="h-px w-16 bg-white/25" />
               <div className="mb-7 rounded-full border border-white/20 bg-white/10 px-4 py-2 text-[30px] uppercase tracking-[0.4em] text-white/70 backdrop-blur-sm">
-            G.O.R.I 
+            GEO OPERATIONAL RISK INTELLIGENCE
               </div>
               <div className="h-px w-16 bg-white/25" />
             </div>
