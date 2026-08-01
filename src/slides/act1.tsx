@@ -22,7 +22,7 @@ import type { SlideDef } from "../lib/types";
 function Slide01() {
   return (
     <Hero
-      title="Време е да ви кажа къде ЩЕ гори, не къде гори"
+      title="G.O.R.I."
       backgroundImage={heroImage}
     />
   );
